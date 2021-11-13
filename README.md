@@ -2,7 +2,7 @@
 Brief Market Basket Analysis using Clustering 
 
 
-# The data science methodology followed for this project has been outlined by John Rollins, IBM
+#### The data science methodology followed for this project has been outlined by John Rollins, IBM
 
 1. Business Understanding
 2. Analytical Approach
